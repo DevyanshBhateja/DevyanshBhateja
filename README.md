@@ -22,8 +22,8 @@ I'm an **AI & Data Engineering** student at **Satakunta University of Applied Sc
 - Extracted image and speed data, tested hyperparameters, and improved model performance.
 
 ## 📫 Connect with Me
-- **GitHub**: [github.com/yourusername](https://github.com/DevyanshBhateja)
-- **LinkedIn**: [linkedin.com/in/sample]([https://linkedin.com/in/sample](https://www.linkedin.com/in/devyansh-bhateja-9b3303256/))
+- **GitHub**: (https://github.com/DevyanshBhateja)
+- **LinkedIn**: [https://linkedin.com/in/sample](https://www.linkedin.com/in/devyansh-bhateja-9b3303256/)
 - **Website**: [yourusername.github.io/devyansh-portfolio/](https://yourusername.github.io/devyansh-portfolio/)
 
 📌 *Always learning something new about AI every day!* 🚀
